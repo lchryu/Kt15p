@@ -1,5 +1,3 @@
-import os 
-os.system("clear")
 def tinhTong(n):
     sum = 0
     for i in n:
